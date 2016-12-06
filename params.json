@@ -1,0 +1,6 @@
+{
+  "name": "Block0.org",
+  "tagline": "",
+  "body": "### Welcome to Block0.org\r\n\r\nThis project aims to provide a simple implementation of a blockchain. \r\n\r\n### Key Features\r\n\r\n* REST style RPC over Websockets\r\n* P2P communications with nodes\r\n* Simple persistent data storage with leveldb\r\n* No proof-of-work!",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
